@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Employee List</string>
+    <string name="employee_detail">Employee Detail</string>
+    <string name="internet_error">No Internet</string>
+</resources>
